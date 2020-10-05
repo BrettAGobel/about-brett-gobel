@@ -1,0 +1,34 @@
+p {
+    text-align: center;
+    font-size: 150%;
+    border-style: inset;
+    border-radius: 20px;
+}
+
+.center-image {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: black 10px 10px;
+    color: mediumaquamarine;
+    font-family: "Copperplate Gothic Bold";
+    font-size: 300%;
+}
+
+img {
+    border-radius: 20%;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Copperplate Gothic Bold";
+    font-size: 200%;
+}
+
+h3 {
+    text-align: center;
+    font-family: "Copperplate Gothic Bold";
+    font-size: 200%;
+}
